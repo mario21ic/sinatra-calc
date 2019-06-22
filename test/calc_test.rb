@@ -1,6 +1,6 @@
 require 'test/unit'
 
-require './modules/Calc'
+require './src/modules/Calc'
 
  
 class MyCalcTest < Test::Unit::TestCase
